@@ -44,9 +44,7 @@ class App extends React.Component {
       } else if  (isLoaded){
         return (
           <div id="quote-box">
-           
             <img className="text-center" src={character.image}/>
-             <i class="fab fa-3x fa-twitter" title="Share on Twitter"></i>
             <h1 className="text-center" id="text">{character.quote}</h1>
             <h2 className="text-center" id="author">{"- " + character.character}</h2>
             <div className="row">

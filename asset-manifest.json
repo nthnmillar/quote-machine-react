@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quote-machine-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/quote-machine-react/static/js/main.87a24b50.chunk.js",
+    "main.js.map": "/quote-machine-react/static/js/main.87a24b50.chunk.js.map",
+    "runtime-main.js": "/quote-machine-react/static/js/runtime-main.0419bf57.js",
+    "runtime-main.js.map": "/quote-machine-react/static/js/runtime-main.0419bf57.js.map",
+    "static/js/2.16e9f015.chunk.js": "/quote-machine-react/static/js/2.16e9f015.chunk.js",
+    "static/js/2.16e9f015.chunk.js.map": "/quote-machine-react/static/js/2.16e9f015.chunk.js.map",
+    "index.html": "/quote-machine-react/index.html",
+    "precache-manifest.97b8a92757728943cd054463982d8c6b.js": "/quote-machine-react/precache-manifest.97b8a92757728943cd054463982d8c6b.js",
+    "service-worker.js": "/quote-machine-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/quote-machine-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.16e9f015.chunk.js.LICENSE.txt": "/quote-machine-react/static/js/2.16e9f015.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/quote-machine-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0419bf57.js",
+    "static/js/2.16e9f015.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.87a24b50.chunk.js"
+  ]
+}

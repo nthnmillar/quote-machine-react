@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8000a6f06cb4f71aad772eac2a1bc56",
+    "revision": "2631a0e5b30555a3530ce620b00c4d2d",
     "url": "/quote-machine-react/index.html"
   },
   {

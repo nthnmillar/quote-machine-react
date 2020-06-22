@@ -1,5 +1,6 @@
 import React from 'react';
-/*import Bootstrap from 'bootstrap';*/
+import 'bootstrap/dist/css/bootstrap.css';
+import './style.scss';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';

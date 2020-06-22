@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/quote-machine-react/static/css/main.5f361e03.chunk.css",
-    "main.js": "/quote-machine-react/static/js/main.eab0632b.chunk.js",
-    "main.js.map": "/quote-machine-react/static/js/main.eab0632b.chunk.js.map",
-    "runtime-main.js": "/quote-machine-react/static/js/runtime-main.aa2ca2ec.js",
-    "runtime-main.js.map": "/quote-machine-react/static/js/runtime-main.aa2ca2ec.js.map",
-    "static/js/2.2288ab29.chunk.js": "/quote-machine-react/static/js/2.2288ab29.chunk.js",
-    "static/js/2.2288ab29.chunk.js.map": "/quote-machine-react/static/js/2.2288ab29.chunk.js.map",
+    "main.css": "/quote-machine-react/static/css/main.a43862ec.chunk.css",
+    "main.js": "/quote-machine-react/static/js/main.7e7bac80.chunk.js",
+    "main.js.map": "/quote-machine-react/static/js/main.7e7bac80.chunk.js.map",
+    "runtime-main.js": "/quote-machine-react/static/js/runtime-main.c8c0adec.js",
+    "runtime-main.js.map": "/quote-machine-react/static/js/runtime-main.c8c0adec.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/quote-machine-react/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.1f3e3440.chunk.js": "/quote-machine-react/static/js/2.1f3e3440.chunk.js",
+    "static/js/2.1f3e3440.chunk.js.map": "/quote-machine-react/static/js/2.1f3e3440.chunk.js.map",
     "index.html": "/quote-machine-react/index.html",
-    "precache-manifest.6140ae7033e481ebb716248bf145ed8c.js": "/quote-machine-react/precache-manifest.6140ae7033e481ebb716248bf145ed8c.js",
+    "precache-manifest.7cc05c0cefbfda45dadb834b95a922b8.js": "/quote-machine-react/precache-manifest.7cc05c0cefbfda45dadb834b95a922b8.js",
     "service-worker.js": "/quote-machine-react/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/quote-machine-react/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.2288ab29.chunk.js.LICENSE.txt": "/quote-machine-react/static/js/2.2288ab29.chunk.js.LICENSE.txt"
+    "static/css/2.829c9cb5.chunk.css.map": "/quote-machine-react/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.a43862ec.chunk.css.map": "/quote-machine-react/static/css/main.a43862ec.chunk.css.map",
+    "static/js/2.1f3e3440.chunk.js.LICENSE.txt": "/quote-machine-react/static/js/2.1f3e3440.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa2ca2ec.js",
-    "static/js/2.2288ab29.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.eab0632b.chunk.js"
+    "static/js/runtime-main.c8c0adec.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.1f3e3440.chunk.js",
+    "static/css/main.a43862ec.chunk.css",
+    "static/js/main.7e7bac80.chunk.js"
   ]
 }
